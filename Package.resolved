@@ -9,6 +9,15 @@
           "revision": "dc725063a1d451a41e556cb56ac738594b7d8fcb",
           "version": "1.0.2"
         }
+      },
+      {
+        "package": "SwiftPackageC",
+        "repositoryURL": "git@github.com:code-nirvana-official/SwiftPackageC.git",
+        "state": {
+          "branch": null,
+          "revision": "15f809d49688c578a77b68310529b8acd2ff8247",
+          "version": "1.0.1"
+        }
       }
     ]
   },
