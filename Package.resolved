@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftPackageB",
+        "repositoryURL": "https://github.com/code-nirvana-official/SwiftPackageB.git",
+        "state": {
+          "branch": null,
+          "revision": "b5ee08a3b55714993168865d6f23374a4d06ef87",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
